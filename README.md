@@ -2,6 +2,8 @@
 
 [PDF Resume](https://barrycumbie.github.io/resume/karla-resume.pdf)
 
+<img width="177" alt="Screen Shot 2023-05-16 at 10 05 15 AM" src="https://github.com/barrycumbie/resume/assets/22795694/6c8cc7f6-b1bb-4410-9fa4-a0e1138c4105">
+
 ## EDUCATION
 
 _Bachelor of Business Administration, January 2022-May 2023_
