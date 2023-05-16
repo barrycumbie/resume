@@ -1,6 +1,6 @@
 # Karla's Resume 
 
-links: 
+[PDF Resume](https://barrycumbie.github.io/resume/karla-resume.pdf)
 
 ## EDUCATION
 
