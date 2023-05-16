@@ -5,7 +5,7 @@ links:
 ## EDUCATION
 
 _Bachelor of Business Administration, January 2022-May 2023_
-- [University of North Alabama](una.edu)
+- [University of North Alabama](https://www.una.edu)
 - Major: Data Analytics & Business Management
 - GPA 3.59
 
