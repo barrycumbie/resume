@@ -1,6 +1,6 @@
 # Karla's Resume 
 
-[PDF Resume](https://barrycumbie.github.io/resume/karla-resume.pdf)
+[PDF Resume](https://barrycumbie.github.io/resume/karla-resume.pdf) | [Example DA Projejct](https://barrycumbie.github.io/resume/projects/DA-460%20Project.pdf)
 
 <img width="177" alt="Screen Shot 2023-05-16 at 10 05 15 AM" src="https://github.com/barrycumbie/resume/assets/22795694/6c8cc7f6-b1bb-4410-9fa4-a0e1138c4105">
 
